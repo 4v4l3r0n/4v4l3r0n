@@ -48,4 +48,4 @@ Gömülü sistemler, web platformları, mobil uygulamalar, web-native oyunlar ge
 ---
 
 📫 **İletişim & Bağlantılar:** 
-[E-posta](mailto:busegulgunay@gmail.com)
+[busegulgunay@gmail.com](mailto:busegulgunay@gmail.com)
