@@ -1,32 +1,30 @@
 # Merhaba, Ben Buse Gül Günay 👋
 
-### Computer Engineer | Full-Stack, IoT & Embedded Systems, Game Developer
-
-Web yazılımlarından gömülü sistemlere, yapay zekâ entegrasyonlu mobil uygulamalardan web tabanlı oyunlara kadar geniş bir alanda uçtan uca (hardware + software) çözümler geliştiren bir bilgisayar mühendisiyim. 
-
-Gerçek hayat problemlerine modern teknolojileri, cloud-edge mimarilerini ve AI API'lerini entegre ederek ürünleştirmeyi seviyorum.
+### Bilgisayar Mühendisi
+ 
+Gömülü sistemler, web platformları, mobil uygulamalar, web-native oyunlar geliştirmiş ve her alanda tecrübe edinmeye açık bir bilgisayar mühendisiyim. Gömülü sistemler, oyun geliştirme ve siber güvenlik konularına ilgiliyim.
 
 ---
 
 ### 🛠️ Yetkinlikler & Teknolojiler
 
-* **Gömülü Sistemler & IoT:** ESP32, ESP32-CAM, C/C++, Sensör Entegrasyonları (Load Cell, Temp/Humidity), Motor Sürücüler, Devre & Donanım Tasarımı
-* **Web & Backend:** PHP, MySQL, HTML5, CSS3, JavaScript, Cloudflare R2 Storage, REST API, Responsive Design
-* **Mobil & AI:** Android, Gemini API Entegrasyonları, Firebase / Cloud Services
-* **Oyun & Araçlar:** HTML5 Web-Native Game Dev (YouTube Playables), Git/GitHub, VS Code (Continue), Antigravity
+* **Gömülü Sistemler & IoT:** ESP32, ESP32-CAM, Arduino, Donanım Çevre Birimleri Entegrasyonu, TinyML Model Eğitimi
+* **Web & Backend:** PHP, C, Java, Python, HTML5 SQL/NoSQL Veri Tabanları, Bulut Depolama & Servisler
+* **Mobil & AI:** Android Uygulama Geliştirme, AI Model Eğitimi
+* **Oyun & Araçlar:** HTML5 Web-Native Game Dev (YouTube Playables)
 
 ---
 
 ### 🚀 Öne Çıkan Projelerim
 
 #### 🔌 IoT, Donanım & AI Projeleri
-* ♻️ **[Akıllı Geri Dönüşüm Kutusu](./)** *(Bitirme Projesi)*  
-  ESP32-CAM, step motorlar ve regülatörler kullanılarak tasarlanan otomatik atık ayırma sistemi. Kamera görüntüsü Wi-Fi üzerinden Gemini API'ye gönderilerek atık sınıflandırılır ve ilgili hazneye yönlendirilir.
-* 🐝 **[Kovan - Akıllı Arıcılık Takip Sistemi](./)** *(Ürün Prototipi)*  
-  Arıcılar için geliştirilen donanım çözümü. 4 noktalı ağırlık sensörleri (load cell), iç/dış sıcaklık ve nem sensörleri entegreli, ESP tabanlı bağlantı mimarisine sahip fiziksel kutu ve devre tasarımı.
+* ♻️ **[Akıllı Geri Dönüşüm Kutusu](./)** 
+  ESP32-CAM ve step motorlar kullanılarak tasarlanan otomatik atık ayırma sistemi. Kamera görüntüsü Wi-Fi üzerinden Gemini API'ye gönderilerek atık sınıflandırılır ve ilgili hazneye yönlendirilir.
+* 🐝 **[Kovan - Akıllı Arıcılık Takip Sistemi](./)**
+  Arıcılar için geliştirilen donanım çözümü. 4 noktalı ağırlık sensörleri (load cell), iç/dış sıcaklık ve nem sensörleri entegreli, ESP tabanlı bağlantı mimarisine sahip fiziksel ürün prototipi.
 
 #### 📱 Mobil & Yapay Zekâ Projeleri
-* 🔮 **[Falcı Abla](./)** *(Google Play Store)*  
+* 🔮 **[Falcı Abla](./)** 
   Gemini API altyapısı kullanılarak geliştirilen Android fal ve burç uygulaması. El falı, tarot, rüya yorumu ve kahve falı gibi modülleri yapay zekâ ile analiz eder.
 
 #### 🎮 Oyun Geliştirme
@@ -35,11 +33,11 @@ Gerçek hayat problemlerine modern teknolojileri, cloud-edge mimarilerini ve AI 
 
 #### 💻 Web & SaaS Projeleri
 * 📸 **[BizimHikayemiz](./)**  
-  Düğün/etkinlik davetlilerinin çektiği fotoğraf ve videoları Cloudflare R2 altyapısında toplayan, etkinlik bazlı depolama ve indirme imkanı sunan medya platformu *(PHP + MySQL + Cloudflare R2)*.
-* 🍕 **[Afilli Pizza & QR Menü](./)**  
-  Restoran için tek sayfa kurumsal web sitesi ve masa QR kodları ile erişilen, admin paneli yönetilebilir dijital menü sistemi *(PHP + MySQL)*.
-* 🎁 **[GiftyGPT](./)**  
-  Ürün kataloğu, dinamik sepet sistemi ve WhatsApp sipariş entegrasyonlu hediyelik eşya platformu *(PHP + MySQL)*.
+  Düğün/etkinlik davetlilerinin çektiği fotoğraf ve videoları Cloudflare R2 altyapısında toplayan, etkinlik bazlı depolama ve indirme imkanı sunan medya platformu.
+* 🍕 **[Afilli Pizza](https://github.com/busegulgunay/Afilli-Pizza)**  
+  Restoran için tek sayfa kurumsal web sitesi ve masa QR kodları ile erişilen, admin paneli yönetilebilir dijital menü sistemi.
+* 🎁 **[GiftyGPT](https://github.com/busegulgunay&GiftyGPT)**  
+  Ürün kataloğu, dinamik sepet sistemi ve WhatsApp sipariş entegrasyonlu hediyelik eşya platformu.
 * 🏬 **[H2N Mimarlık](./)**  
   Mimarlık şirketi için özel arayüz tasarımı, proje portföyü ve dinamik admin paneli sunan kurumsal web sitesi.
 * 📦 **[TMT Grup Ambalaj](./)**  
