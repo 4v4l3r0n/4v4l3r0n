@@ -34,9 +34,9 @@ Gömülü sistemler, web platformları, mobil uygulamalar, web-native oyunlar ge
 #### 💻 Web & SaaS Projeleri
 * 📸 **[BizimHikayemiz](./)**  
   Düğün/etkinlik davetlilerinin çektiği fotoğraf ve videoları Cloudflare R2 altyapısında toplayan, etkinlik bazlı depolama ve indirme imkanı sunan medya platformu.
-* 🍕 **[Afilli Pizza](https://github.com/busegulgunay/Afilli-Pizza)**  
+* 🍕 **[Afilli Pizza](https://github.com/4v4l3r0n/Afilli-Pizza)**  
   Restoran için tek sayfa kurumsal web sitesi ve masa QR kodları ile erişilen, admin paneli yönetilebilir dijital menü sistemi.
-* 🎁 **[GiftyGPT](https://github.com/busegulgunay&GiftyGPT)**  
+* 🎁 **[GiftyGPT](https://github.com/4v4l3r0n/GiftyGPT)**  
   Ürün kataloğu, dinamik sepet sistemi ve WhatsApp sipariş entegrasyonlu hediyelik eşya platformu.
 * 🏬 **[H2N Mimarlık](./)**  
   Mimarlık şirketi için özel arayüz tasarımı, proje portföyü ve dinamik admin paneli sunan kurumsal web sitesi.
