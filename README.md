@@ -43,7 +43,7 @@ Gömülü sistemler, web platformları, mobil uygulamalar, web-native oyunlar ge
 * 📦 **[TMT Grup Ambalaj](./)**  
   Özel ambalaj üreticisi için ürün sergileme ve WhatsApp hızlı iletişim entegrasyonlu kurumsal site.
 * 🌐 **[Kızılelma & Platform Yönetimi](./)**  
-  Kızılelma bünyesindeki 4 farklı web platformunun teknik danışmanlığı ve geliştirme/bakım süreçlerinin yürütülmesi.
+  Kızılelma ve bünyesindeki 4 farklı web platformunun teknik danışmanlığı ve geliştirme/bakım süreçlerinin yürütülmesi.
 
 ---
 
