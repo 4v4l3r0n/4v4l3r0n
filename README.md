@@ -2,7 +2,7 @@
 
 ### Bilgisayar Mühendisi
  
-Gömülü sistemler, web platformları, mobil uygulamalar, web-native oyunlar geliştirmiş ve her alanda tecrübe edinmeye açık bir bilgisayar mühendisiyim. Gömülü sistemler, oyun geliştirme ve siber güvenlik konularına ilgiliyim.
+Gömülü sistemler, web platformları, mobil uygulamalar, web-native oyunlar geliştirmiş ve her alanda tecrübe edinmeye açık bir bilgisayar mühendisiyim. Yapay zeka, gömülü sistemler, oyun geliştirme ve siber güvenlik konularına ilgiliyim.
 
 ---
 
