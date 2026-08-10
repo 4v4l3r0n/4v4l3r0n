@@ -38,7 +38,7 @@ Gömülü sistemler, web platformları, mobil uygulamalar, web-native oyunlar ge
   Restoran için tek sayfa kurumsal web sitesi ve masa QR kodları ile erişilen, admin paneli yönetilebilir dijital menü sistemi.
 * 🎁 **[GiftyGPT](https://github.com/4v4l3r0n/GiftyGPT)**  
   Ürün kataloğu, dinamik sepet sistemi ve WhatsApp sipariş entegrasyonlu hediyelik eşya platformu.
-* 🏬 **[H2N Mimarlık](https://github.com/4v4l3r0n/H2NMimarlık)**  
+* 🏬 **[H2N Mimarlık](https://github.com/4v4l3r0n/H2NMimarlik)**  
   Mimarlık şirketi için özel arayüz tasarımı, proje portföyü ve dinamik admin paneli sunan kurumsal web sitesi.
 * 📦 **[TMT Grup Ambalaj](https://github.com/4v4l3r0n/TMTGrupAmbalaj)**  
   Özel ambalaj üreticisi için ürün sergileme ve WhatsApp hızlı iletişim entegrasyonlu kurumsal site.
